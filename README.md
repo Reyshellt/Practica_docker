@@ -13,4 +13,5 @@ Para manejar las variables de entorno, crea un archivo `.env` en el directorio r
 
 ## Construir y Ejecutar los Contenedores
 Desde el directorio raíz del proyecto (mi_aplicacion), ejecuta los siguientes comandos para construir y ejecutar los contenedores:
+
 docker-compose up --build
